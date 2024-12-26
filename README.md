@@ -25,10 +25,10 @@ A Java-based application to manage inventory for an e-commerce platform. This pr
 
 ## Project Structure
 
-- **Main.java**: Handles user interaction and menu navigation.
-- **Product.java**: Represents individual products in the inventory.
+- **Main.java**: Handles menu navigation.
+- **Product.java**: Individual product in the inventory.
 - **Sale.java**: Tracks sales details, including product ID, name, quantity sold, and revenue.
-- **InventoryManager.java**: Manages core abilities such as adding/removing products, processing sales, and generating reports.
+- **InventoryManager.java**: Manages abilities such as adding/removing products, processing sales, and making reports.
 
 ## How to Run
 
